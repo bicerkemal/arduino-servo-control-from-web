@@ -1,21 +1,30 @@
 # arduino-servo-control-from-web
-we can remote arduino board on web/smart phone
+We can remotely access arduino board from web/smart phone
 ## Description
-we can control servo motor with ardunio from smart phone. Ardunio has can be controlled without  at different LAN. Also we can create app for control this. We connect two devices at Teledünyo.
+We can control servo motor with ardunio from smart phone. Servo can be controlled from different LAN. We enable two devices to communicate with each other on Teleduino. Also we can create app for controlling servo motor at MIT app inventor.
 
-## Malzemeler
+## Materials
 ```
-Ardunio Uno
+Ardunio Uno Board
+Arduino Ethernet Shield
+Jumper Cables
+Servo Motor 
+Ethernet Input
 
 ```
 ## Documantation
 ```
-Teledunya: elimdeki ardunioyu bu web sitesi aracılığyla ardunioya daki komudu webe aktarıyor.
-```
-https://github.com/bicerkemal/arduino-servo-control-from-web/edit/main/README.md
+https://www.teleduino.org/ : Teleduino converts your ethernet enabled Arduino into a powerful and versatile tool for interacting with devices over the internet. 
 
 ```
-MIT: interntette olan bu bilgileri kontrol edecek api yapmak için
-```
-https://github.com/bicerkemal/arduino-servo-control-from-web/edit/main/README.md
 
+```
+https://appinventor.mit.edu/ : We can create app from 'MIT app inventor' for controlling servo from smart phone.
+
+```
+[servomotor.txt](https://github.com/bicerkemal/arduino-servo-control-from-web/files/6093473/servomotor.txt)
+
+
+## Suggestion
+```
+When the energy cuts and comes back you have to define your Pin from https://www.teleduino.org/.
