@@ -27,4 +27,5 @@ https://appinventor.mit.edu/ : We can create app from 'MIT app inventor' for con
 
 ## Suggestion
 ```
-When the energy cuts and comes back you have to define your Pin from https://www.teleduino.org/.
+When power interruption occurs and reconnects after, we have to define our pins once again at https://www.teleduino.org/.
+```
